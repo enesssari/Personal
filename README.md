@@ -9,7 +9,7 @@ There will be several homework assignments done for this course.
 
 ### Homework 1
 Description of Homework 1
-[Homework 1 Solution](https://github.com/enesssari/Personal/blob/gh-pages-personal/IE%20582%20HW%201-%20Enes%20Sar%C4%B1.html)
+[Homework 1 Solution](https://enesssari.github.io/Personal/IE%20582%20HW%201-%20Enes%20Sar%C4%B1.html)
 
 ### Markdown
 
