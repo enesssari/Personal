@@ -1,8 +1,15 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/enesssari/Personal/edit/gh-pages-personal/README.md) to maintain and preview the content for your website in Markdown files.
+This is my Progress Journal website created for IE 582 course at Bogazici University.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Homework Assignments
+There will be several homework assignments done for this course.
+
+### Homework 1
+Description of Homework 1
+[Homework 1 Solution](https://github.com/enesssari/Personal/blob/main/IE%20582%20HW%201-%20Enes%20Sar%C4%B1.html)
 
 ### Markdown
 
