@@ -11,6 +11,6 @@ There will be several homework assignments done for this course.
 [Description of Homework 1](https://enesssari.github.io/Personal/IE582_Fall21_Homework1.pdf) <br>
 [Solution of Homework 1](https://enesssari.github.io/Personal/IE%20582%20HW%201-%20Enes%20Sar%C4%B1.html)
 
-### Homework 2
-[Description of Homework 2](https://enesssari.github.io/Personal/IE582_Fall21_Homework1.pdf) <br>
+### Homework 2                
+[Description of Homework 2](https://enesssari.github.io/Personal/Homework2/IE582_Fall21_Homework2.pdf) <br>
 [Solution of Homework 2](https://enesssari.github.io/Personal/IE%20582%20HW%201-%20Enes%20Sar%C4%B1.html)
