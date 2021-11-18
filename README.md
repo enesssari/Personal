@@ -5,7 +5,7 @@ This is my Personal Progress Journal website. You can find all the projects or h
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Design of Ship Domain for the Strait of Istanbul Using Past Ais Data
-[This](https://enesssari.github.io/Personal/CE492%20-%20Final%20Report_Sar%C4%B1_Rogenbuke_Aybar_Oru%C3%A7_Tarhan.pdf) is the report of my final project that we have done with my colleagues. 
+This is [the Report](https://enesssari.github.io/Personal/CE492%20-%20Final%20Report_Sar%C4%B1_Rogenbuke_Aybar_Oru%C3%A7_Tarhan.pdf) of my final project that we have done with my colleagues. 
 
 ### Homework Assignments of IE 582 (Statistical Data Mining for Time Series)
 There will be several homework assignments done for IE 582 course.
