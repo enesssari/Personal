@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is my [Resume](https://enesssari.github.io/Personal/enes_sari_cv_12_2021.pdf) and this is my [Personal Progress Journal website](https://enesssari.github.io/Personal). You can find all the projects or homeworks that I've done below.
+This is my [Resume](https://enesssari.github.io/Personal/enes_sari_cv_05_2022.pdf) and this is my [Personal Progress Journal website](https://enesssari.github.io/Personal). You can find all the projects or homeworks that I've done below.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
